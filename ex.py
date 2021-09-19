@@ -1,2 +1,2 @@
-number = int(input("enter a number."))
+number = int( input("enter a number:"))
 print("The number is {}".format(number))
